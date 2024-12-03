@@ -9,7 +9,7 @@ Student
 My name's Nut and I have a passion for building websites. My goal is to develop my skills to be able to work more productive.
 
 * ✉️  You can contact me at [gundanaiputtasimma@gmail.com](mailto:gundanaiputtasimma@gmail.com)
-* 🧠  I'm learning HTML CSS JS PYTHON
+* 🧠  I'm learning about HTML CSS JS PYTHON
 
 ### Skills
 
